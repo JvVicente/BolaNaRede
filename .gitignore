@@ -1,0 +1,19 @@
+# Credenciais do Wi-Fi (nunca subir)
+firmware/**/secrets.h
+
+# Builds e arquivos de IDE
+build/
+*.bin
+*.elf
+*.hex
+.vscode/
+.idea/
+.pio/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Documentacao local
+REGISTRO_LLM.md
