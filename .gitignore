@@ -14,6 +14,3 @@ build/
 .DS_Store
 Thumbs.db
 desktop.ini
-
-# Documentacao local
-REGISTRO_LLM.md
